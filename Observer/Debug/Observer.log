@@ -1,0 +1,3 @@
+﻿statisticsdisplay.obj : error LNK2001: неразрешенный внешний символ "public: virtual void __thiscall StatisticsDisplay::update(float,float,float)" (?update@StatisticsDisplay@@UAEXMMM@Z).
+statisticsdisplay.obj : error LNK2001: неразрешенный внешний символ "public: virtual void __thiscall StatisticsDisplay::display(void)" (?display@StatisticsDisplay@@UAEXXZ).
+C:\Users\Admin\source\repos\Observer\Debug\Observer.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
